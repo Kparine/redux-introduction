@@ -1,7 +1,7 @@
 const redux = require('redux')
 
 /*
-  A reducer. A reducer is like the reduce function -- it takes a
+  A reducer is like the reduce function -- it takes a
   series of things (actions) and returns a single thing (state).
 */
 function counter (state = 0, action) {
